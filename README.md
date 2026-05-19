@@ -1,82 +1,63 @@
 # Jason Fetzer
 
-I build algorithmic systems, optimization models, data platforms, and AI-assisted software for real-world operations.
+I build algorithmic systems, operations research tools, data platforms, and grounded AI software for real-world operations.
 
-My work sits at the intersection of operations research, industrial systems, data engineering, and applied AI. I am especially interested in software that helps people make better decisions under real constraints.
+My work is centered on problems where feasibility matters, interfaces need to earn trust, and software has to help people make better decisions under real constraints.
 
-## Current Focus
+## Start Here
 
-- **Algorithms and Operations Research**  
-  Scheduling, cutting stock, packing, transportation, transshipment, knapsack, and practical solver design in Java, Python, and OR-Tools.
+- [Talk to My Machine](https://github.com/justfetz/talk-to-my-machine-site)  
+  A manufacturing digital twin and operations assistant for corrugator scheduling, runtime visibility, analytics, and operator-readable decision support.
 
-- **Applied AI**  
-  Grounded AI for explanation, decision support, and operator-readable software rather than black-box automation.
+- [Operations Research Algorithms](https://github.com/justfetz/operations-research-algorithms)  
+  The portfolio hub for my public solver work across scheduling, cutting stock, packing, transportation, transshipment, and greedy methods.
 
-- **Talk to My Machine**  
-  A manufacturing digital twin and operations assistant focused on corrugator scheduling, runtime visibility, grounded analytics, and machine-facing decision support.
+- [Felix/August](https://github.com/justfetz/felix-august)  
+  A long-horizon investment journal for my sons, focused on AI, hardware, infrastructure, energy, and generational wealth.
 
-- **Fabric Administrative Tooling**  
-  A Microsoft Fabric workflow and administration tool that I plan to publish in sanitized, better-tested form.
+## Public Solver Repos
 
-## Portfolio Buckets
+- [Multi-Machine Interval Scheduling](https://github.com/justfetz/multi-machine-interval-scheduling)  
+  Java, Python, OR-Tools Python, and OR-Tools Java implementations of a multi-machine interval scheduling problem.
 
-### Flagship Project
+- [Knapsack and Greedy Algorithms](https://github.com/justfetz/knapsack-and-greedy-algorithms)  
+  0/1 knapsack, activity selection, and related greedy / dynamic programming examples across Java, Python, and OR-Tools.
 
-- **Talk to My Machine**  
-  Industrial AI and optimization for scheduling, execution, and readable operational decision support.
+- [Cutting Stock Operations Research](https://github.com/justfetz/python-cutting-stock-operations-research)  
+  Heuristic and OR-Tools-based cutting stock implementations with sample inputs, outputs, and tests.
 
-### Algorithms
+- [Transportation and Transshipment Models](https://github.com/justfetz/transportation-and-transshipment-models)  
+  Cost-based allocation, network flow, and transshipment models across Java, Python, and OR-Tools.
 
-- **Operations Research Algorithms**  
-  A growing body of work around cutting stock, job scheduling, n-machine m-jobs, packing, transportation, transshipment, and greedy methods.
+- [Truck Cubing and Bin Packing](https://github.com/justfetz/truck-cubing-bin-packing)  
+  Practical packing and load-building models with heuristic and optimization variants.
 
-### Applied Tooling
-
-- **Fabric Administrative Tooling**  
-  Practical software for workflow support, administration, and platform operations in Microsoft Fabric environments.
-
-### Learning and Systems Work
-
-- academic and group projects in algorithms, software engineering, systems, and design
-- Java, Python, database, and lower-level systems work
-- assembly and foundational programming projects that shaped how I build now
-
-### Felix/August
-
-- a long-horizon investment journal for my sons
-- centered on AI, hardware, infrastructure, energy, and durable business thinking
-
-## Technical Themes
+## Current Themes
 
 - combinatorial optimization
 - scheduling and sequencing
 - cutting stock and packing
-- transportation and transshipment models
+- transportation and transshipment
 - industrial AI and decision support
 - data engineering and warehouse-backed analytics
-- enterprise workflow and platform tooling
-- systems that explain operational complexity clearly
+- manufacturing systems and plant-level runtime visibility
+- workflow and platform tooling
 
-## Selected Work
+## In Progress
 
-- **Talk to My Machine**  
-  A long-form project around manufacturing runtime truth, deterministic scheduling, analytics, and grounded AI explanation.
+- **Talk to My Machine application**  
+  The full operating product is still private while I continue building and hardening it locally.
 
-- **Optimization and Solver Work**  
-  Implementations and notes covering scheduling, cutting stock, packing, transportation, and related operations research problems.
+- **Fabric administrative tooling**  
+  A real Microsoft Fabric workflow and admin tool that I plan to publish in sanitized, better-tested form.
 
-- **Fabric Administrative Tooling**  
-  A real application for workflow and administrative support in Microsoft Fabric environments, currently being hardened for broader release.
+- **Capacity planning work**  
+  Earlier plant-capacity modeling work that can likely be repackaged into a stronger public operations research showcase.
 
-## How I Think
+## Learning and Systems Work
 
-I am most interested in systems where algorithms, software, data, and interfaces come together to support real work. I like projects where feasibility matters, legibility matters, and the software has to earn trust.
-
-## Learning in Public
-
-I keep learning in public through coursework, experiments, refactors, and side projects. I view that body of work as part of the portfolio, not separate from it.
+I keep older school, systems, and exploratory repos visible because they show how I learned: algorithms, databases, software engineering, assembly, geospatial work, and architecture projects all feed the way I build now.
 
 ## Elsewhere
 
-- **Felix/August** is a separate long-term project centered on investing, family, and the reasoning behind long-term ownership.
-- You can also find me on **LinkedIn**.
+- [LinkedIn](https://linkedin.com/in/jasonmfetzer)
